@@ -19,16 +19,8 @@ export default class CyNetworkViewer extends React.Component {
 
   render() {
       var renderer;
-
-      console.log(this.props.networks);
-
-
       if (!this.props.networkDownload.get('downloading')) {
-        console.log("Downloading finished! network--")
-        let network = this.props.networks.get(this.props.networkUrl)
-        network = network.toJS()
-        console.log(network)
-        console.log(this.props)
+        const network = this.props.networks.get(this.props.networkUrl)
         renderer = <CytoscapeRenderer networkData={network}/>
       } else {
         console.log("Network is downloading...")
