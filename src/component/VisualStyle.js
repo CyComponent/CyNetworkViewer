@@ -2,11 +2,11 @@ export const DEF_VISUAL_STYLE = [
   {
     selector: 'node',
     style: {
-      'background-color': 'rgb(200, 220, 200)',
-      'background-opacity': 0.8,
+      'background-color': '#436EEE',
+      'background-opacity': 0.9,
       'width': '40px',
       'height': '40px',
-      'label': 'data(Label)',
+      'label': 'data(name)',
       'font-family': 'Roboto, sans-serif'
     }
   },

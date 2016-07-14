@@ -23,7 +23,10 @@ CyNetworkVisualizer
       var cyto = CyFramework.config([CyNetworkStore])
       cyto.dispatch(CyNetworkStore.networkDownloadActions.downloadBegin())
       cyto.render(CyNetworkViewer, document.getElementById('viewer'), {
-        networkUrl: 'http://ci-dev-serv.ucsd.edu:3001/ndex2cyjs/a54acf93-1300-11e6-9191-0660b7976219?server=dev2'
+        networkUrl: 'http://ci-dev-serv.ucsd.edu:3001/ndex2cyjs/a54acf93-1300-11e6-9191-0660b7976219?server=dev2',
+        renderOptions: {
+          touchTapThreshold: 5;
+        }
       });
 
     </script>

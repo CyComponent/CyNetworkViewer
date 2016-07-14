@@ -12,7 +12,6 @@ const DEF_LAYOUT = 'preset';
 const DEF_NO_LAYOUT = 'cose';
 
 
-
 /**
  * Simple Network Viewer Component
  */
@@ -20,27 +19,30 @@ class CytoscapeRenderer extends React.Component {
 
   updateCyjs() {
     console.log('* Cytoscape.js is rendering new network...');
-    
+
     let network = this.props.networkData.toJS()
 
     let visualStyle = DEF_VISUAL_STYLE
     let layout = DEF_LAYOUT
 
-    if(visualStyle === undefined || visualStyle === null) {
+    if (visualStyle === undefined || visualStyle === null) {
       visualStyle = DEF_VISUAL_STYLE
       layout = DEF_NO_LAYOUT
     }
 
-    this.cy = cytoscape({
 
-      container: document.getElementById(CYTOSCAPE_TAG),
-      elements: this.props.network.elements,
-      style: visualStyle,
-      layout: {
-        name: layout
-      }
+    this.cy = cytoscape(
+      Object.assign(
+        this.props.renderOptions,
+        {
+          container: document.getElementById(CYTOSCAPE_TAG),
+          elements: network.elements,
+          style: visualStyle,
+          layout: {
+            name: layout
+          }
 
-    });
+        }));
   }
 
   componentDidMount() {
@@ -60,8 +62,8 @@ class CytoscapeRenderer extends React.Component {
   render() {
     console.log("CyJS renderer called@@@@@@@@@@@...")
     return (
-      <div class="network-widget" style={{ height: '100%', width: '100%'}}>
-        <div id={CYTOSCAPE_TAG} style={{ height: '100%', width: '100%'}}></div>
+      <div class="network-widget" style={{height: '100%', width: '100%'}}>
+        <div id={CYTOSCAPE_TAG} style={{height: '100%', width: '100%'}}></div>
       </div>
     )
   }
