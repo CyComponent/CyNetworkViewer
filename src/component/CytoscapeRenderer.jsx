@@ -20,7 +20,8 @@ class CytoscapeRenderer extends React.Component {
 
   updateCyjs() {
     console.log('* Cytoscape.js is rendering new network...');
-    console.log(this.props)
+    
+    let network = this.props.networkData.toJS()
 
     let visualStyle = DEF_VISUAL_STYLE
     let layout = DEF_LAYOUT
@@ -33,7 +34,7 @@ class CytoscapeRenderer extends React.Component {
     this.cy = cytoscape({
 
       container: document.getElementById(CYTOSCAPE_TAG),
-      elements: this.props.networkData.elements,
+      elements: this.props.network.elements,
       style: visualStyle,
       layout: {
         name: layout
@@ -48,12 +49,11 @@ class CytoscapeRenderer extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    if (nextProps.networkData === this.props.networkData) {
-      console.log("@No need to update view...");
+    if (nextProps.networkData.equals(this.props.networkData)) {
+      console.log("Network unchanged, not updating cytoscapejs");
       return false;
     }
-
-    console.log("CyJS UPDATE called################...")
+    console.log("Network changed, updating cytoscapejs")
     return true;
   }
 
