@@ -1,16 +1,34 @@
 
-CyComponentScaffold
+CyNetworkVisualizer
 ====================
-A quick start scaffold project for creating CyComponent for the CyFramework. This project requires that npm be installed globally on the development machine.
 
-How to bootstrap a new project
------------------------------
-Use the setup script in the directory to convert the scaffold into your project (it will delete itself upon finishing setup).
-```
-git clone https://github.com/CyComponent/CyComponentScaffold.git
-cd CyComponentScaffold && chmod +x setup.sh
-./setup.sh
+## Template page for testing
 
+```html
+<html>
+
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.0.2/react-with-addons.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.0.2/react-dom.js"></script>
+
+    <script src="CyFramework/build/CyFramework.js"></script>
+    <script src="CyNetworkStore/build/CyNetworkStore.js"></script>
+    <script src="CyNetworkViewer/build/CyNetworkViewer.js"></script>
+  </head>
+
+  <body>
+    <div id="viewer"></div>
+
+    <script>
+      var cyto = CyFramework.config([CyNetworkStore])
+      cyto.dispatch(CyNetworkStore.networkDownloadActions.downloadBegin())
+      cyto.render(CyNetworkViewer, document.getElementById('viewer'), {
+        networkUrl: 'http://ci-dev-serv.ucsd.edu:3001/ndex2cyjs/a54acf93-1300-11e6-9191-0660b7976219?server=dev2'
+      });
+
+    </script>
+  </body>
+</html>
 ```
 
 ####Contains:

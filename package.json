@@ -2,7 +2,7 @@
   "name": "CyNetworkViewer",
   "author": "Keiichiro Ono <kono@ucsd.edu>",
   "version": "v0.0.1",
-  "description": "Visualize networks",
+  "description": "Network visualizer using Cytoscpae.js",
   "license": "MIT",
   "keywords": [],
   "main": "build/CyNetworkViewer.js",
