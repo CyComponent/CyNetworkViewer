@@ -1,0 +1,75 @@
+{
+  "name": "CyNetworkViewer",
+  "author": "Keiichiro Ono <kono@ucsd.edu>",
+  "version": "v0.0.1",
+  "description": "Visualize networks",
+  "license": "MIT",
+  "keywords": [],
+  "main": "build/CyNetworkViewer.js",
+  "files": [
+    "webpack.config.js",
+    ".preprocessor.js",
+    ".travis.yml",
+    "build/*",
+    "src/*"
+  ],
+  "scripts": {
+    "build": "webpack --progress --colors",
+    "clean": "rm build/*",
+    "lint": "eslint src/; exit 0",
+    "test": "eslint src/ && jest",
+    "coverage": "jest --coverage"
+  },
+  "homepage": "https://github.com/CyNetworkViewer/CyNetworkViewer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyNetworkViewer/CyNetworkViewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyNetworkViewer/CyNetworkViewer/issues"
+  },
+  "dependencies": {
+    "cytoscape": "^2.7.5",
+    "immutable": "^3.7.6",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-eslint": "^4.1.8",
+    "babel-jest": "^6.0.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.0",
+    "eslint": "^2.0.0",
+    "file-loader": "^0.8.5",
+    "jest-cli": "^0.8.2",
+    "jest-webpack-alias": "^2.0.0",
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.13"
+  },
+  "jest": {
+    "scriptPreprocessor": "<rootDir>/.preprocessor.js"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint",
+    "extends": "eslint:recommended",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    },
+    "env": {
+      "es6": true,
+      "browser": true
+    }
+  }
+}
