@@ -12,9 +12,6 @@ const DEF_LAYOUT = 'preset';
 const DEF_NO_LAYOUT = 'cose';
 
 
-/**
- * Simple Network Viewer Component
- */
 class CytoscapeRenderer extends React.Component {
 
   updateCyjs() {
@@ -46,7 +43,6 @@ class CytoscapeRenderer extends React.Component {
   }
 
   componentDidMount() {
-    console.log("CyJS DID_UPDATE# called################...")
     this.updateCyjs();
   }
 
@@ -60,7 +56,6 @@ class CytoscapeRenderer extends React.Component {
   }
 
   render() {
-    console.log("CyJS renderer called@@@@@@@@@@@...")
     return (
       <div class="network-widget" style={{height: '100%', width: '100%'}}>
         <div id={CYTOSCAPE_TAG} style={{height: '100%', width: '100%'}}></div>

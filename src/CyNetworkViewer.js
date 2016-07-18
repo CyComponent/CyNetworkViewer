@@ -1,5 +1,5 @@
-import { bindActionCreators } from 'redux'
-import { connect } from 'react-redux'
+import {bindActionCreators} from 'redux'
+import {connect} from 'react-redux'
 
 import CyNetworkViewer from './component/CyNetworkViewer'
 
@@ -23,9 +23,9 @@ function mapDispatchToProps(dispatch) {
 }
 
 const component = connect(
-    mapStateToProps,
-    mapDispatchToProps
-  )(CyNetworkViewer)
+  mapStateToProps,
+  mapDispatchToProps
+)(CyNetworkViewer)
 
 const storeName = 'cy_network_viewer'
 const store = {}

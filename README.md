@@ -1,6 +1,6 @@
+# CyNetworkVisualizer
 
-CyNetworkVisualizer
-====================
+React-based component for network data visualization
 
 ## Template page for testing
 
@@ -34,7 +34,7 @@ CyNetworkVisualizer
 </html>
 ```
 
-####Contains:
+### Used Frameworks
 - React
 - Redux
 - SCSS
@@ -45,8 +45,8 @@ CyNetworkVisualizer
 - Jest
 - Travis
 
-Commands
---------
+### Commands
+
 ```
 npm run build - Build the component into /build
 npm run clean - Remove anything in /build

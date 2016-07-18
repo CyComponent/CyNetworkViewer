@@ -1,6 +1,5 @@
 import {Map} from 'immutable'
-
-import { addNetwork } from './networks'
+import {addNetwork} from './networks'
 
 const DOWNLOAD_BEGIN = 'DOWNLOAD_BEGIN'
 const DOWNLOAD_SUCCESS = 'DOWNLOAD_SUCCESS'
@@ -12,7 +11,7 @@ const defaultState = Map({
 })
 
 export default function downloadState(state = defaultState, action) {
-  switch(action.type) {
+  switch (action.type) {
     case DOWNLOAD_BEGIN:
       return state.merge({
         downloading: true
@@ -61,7 +60,7 @@ export function download(networkUrl) {
       headers: headers
     }).then(response => {
       if (response.status >= 200 && response.status < 300) {
-        response.json().then( data => dispatch(downloadSuccess(networkUrl, data)))
+        response.json().then(data => dispatch(downloadSuccess(networkUrl, data)))
       } else {
         const error = new Error(response)
         error.response = response

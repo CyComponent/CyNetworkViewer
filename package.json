@@ -1,10 +1,15 @@
 {
   "name": "CyNetworkViewer",
   "author": "Keiichiro Ono <kono@ucsd.edu>",
-  "version": "v0.0.1",
-  "description": "Network visualizer using Cytoscpae.js",
-  "license": "MIT",
-  "keywords": [],
+  "version": "v0.9.0",
+  "description": "React-based network visualizer using Cytoscpae.js",
+  "license": "UCSD",
+  "keywords": [
+    "cytoscape",
+    "visualization",
+    "graph",
+    "bioinformatics"
+  ],
   "main": "build/CyNetworkViewer.js",
   "files": [
     "webpack.config.js",
@@ -20,16 +25,16 @@
     "test": "eslint src/ && jest",
     "coverage": "jest --coverage"
   },
-  "homepage": "https://github.com/CyNetworkViewer/CyNetworkViewer",
+  "homepage": "https://github.com/CyComponent/CyNetworkViewer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CyNetworkViewer/CyNetworkViewer.git"
+    "url": "https://github.com/CyComponent/CyNetworkViewer.git"
   },
   "bugs": {
-    "url": "https://github.com/CyNetworkViewer/CyNetworkViewer/issues"
+    "url": "https://github.com/CyComponent/CyNetworkViewer/issues"
   },
   "dependencies": {
-    "cytoscape": "^2.7.5",
+    "cytoscape": "^2.7.6",
     "immutable": "^3.7.6",
     "react-redux": "^4.4.0",
     "redux": "^3.3.1"
