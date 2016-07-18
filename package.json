@@ -1,5 +1,5 @@
 {
-  "name": "CyNetworkViewer",
+  "name": "cy-network-viewer",
   "author": "Keiichiro Ono <kono@ucsd.edu>",
   "version": "v0.9.0",
   "description": "React-based network visualizer using Cytoscpae.js",
