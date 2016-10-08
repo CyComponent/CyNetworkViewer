@@ -1,0 +1,2753 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Hits_humanChemoGeneticScreen(1)",
+    "name" : "Hits_humanChemoGeneticScreen(1)",
+    "SUID" : 446,
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "PHA-767491",
+        "name" : "PHA-767491",
+        "SUID" : 110,
+        "Drug_Target_s_" : "CDC7,CDK9",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -648.1526656422648,
+        "y" : -6.160329938909854
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "BRD4",
+        "name" : "BRD4",
+        "SUID" : 109,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -822.6706121308076,
+        "y" : -109.28037663872372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "shared_name" : "ATAD5",
+        "name" : "ATAD5",
+        "SUID" : 108,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -818.4479558808075,
+        "y" : -288.21103627333383
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "Disulfiram",
+        "name" : "Disulfiram",
+        "SUID" : 107,
+        "Drug_Target_s_" : "ALDH2",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -739.6445890371397,
+        "y" : 50.48901399075112
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "RPL11",
+        "name" : "RPL11",
+        "SUID" : 106,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -796.1636962890625,
+        "y" : -61.6685297148956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "shared_name" : "RFC1",
+        "name" : "RFC1",
+        "SUID" : 105,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -528.6045532226562,
+        "y" : -232.4218561309112
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "MTOR",
+        "name" : "MTOR",
+        "SUID" : 104,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -910.6747014862763,
+        "y" : -304.59502731039134
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "SCH772984",
+        "name" : "SCH772984",
+        "SUID" : 103,
+        "Drug_Target_s_" : "MAPK1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -1079.0954041178193,
+        "y" : -395.9018034648907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "FH",
+        "name" : "FH",
+        "SUID" : 102,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -698.1081731659638,
+        "y" : -287.1402543611726
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "LLGL1",
+        "name" : "LLGL1",
+        "SUID" : 101,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -835.99495295112,
+        "y" : -414.36743886122446
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "RAD17",
+        "name" : "RAD17",
+        "SUID" : 100,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -655.4089588438537,
+        "y" : -192.34146479194033
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "FZR1",
+        "name" : "FZR1",
+        "SUID" : 99,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -848.0820501190888,
+        "y" : -356.0835382598175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "PD0325901",
+        "name" : "PD0325901",
+        "SUID" : 98,
+        "Drug_Target_s_" : "MAP2K1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -999.5707218296448,
+        "y" : -468.39820414572023
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "TTN",
+        "name" : "TTN",
+        "SUID" : 97,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -720.3620183808075,
+        "y" : -223.16093002035228
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "AUY922",
+        "name" : "AUY922",
+        "SUID" : 96,
+        "Drug_Target_s_" : "HSP90AA1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -692.8313774848357,
+        "y" : -468.39820414572023
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "SMARCC1",
+        "name" : "SMARCC1",
+        "SUID" : 95,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -508.5504184452875,
+        "y" : -93.42317178529629
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "RB1",
+        "name" : "RB1",
+        "SUID" : 94,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -923.5925059998963,
+        "y" : -387.86537531440126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "ING4",
+        "name" : "ING4",
+        "SUID" : 93,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -990.4635009765625,
+        "y" : -96.85264989311825
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "PALB2",
+        "name" : "PALB2",
+        "SUID" : 92,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1152.298295292203,
+        "y" : -132.70967012975598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "ING5",
+        "name" : "ING5",
+        "SUID" : 91,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -744.8444213867188,
+        "y" : -393.19513661513065
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "tipifarnib",
+        "name" : "tipifarnib",
+        "SUID" : 90,
+        "Drug_Target_s_" : "RABGGTB,FNTA",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -1136.9903324671614,
+        "y" : -192.42236221682106
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "XRCC3",
+        "name" : "XRCC3",
+        "SUID" : 89,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -895.16731623237,
+        "y" : -134.894287109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "RPS11",
+        "name" : "RPS11",
+        "SUID" : 88,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -984.6880071503388,
+        "y" : -334.76458740234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "MSH2",
+        "name" : "MSH2",
+        "SUID" : 87,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1081.2013128144013,
+        "y" : -49.58013153076172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "NF1",
+        "name" : "NF1",
+        "SUID" : 86,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1192.0049016815888,
+        "y" : -20.46928596496582
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "ARID1A",
+        "name" : "ARID1A",
+        "SUID" : 85,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -658.4658014434112,
+        "y" : 36.6057737213837
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "YWHAZ",
+        "name" : "YWHAZ",
+        "SUID" : 84,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1051.3196832793487,
+        "y" : -208.62234497070312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "methotrexate",
+        "name" : "methotrexate",
+        "SUID" : 83,
+        "Drug_Target_s_" : "DHFR",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -613.306588189138,
+        "y" : -396.680470540392
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "PD98059",
+        "name" : "PD98059",
+        "SUID" : 82,
+        "Drug_Target_s_" : "MAP2K1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -899.2274027129315,
+        "y" : -507.27147319076175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "MCL1",
+        "name" : "MCL1",
+        "SUID" : 81,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -609.937295459109,
+        "y" : -465.9542590689234
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "CDC14A",
+        "name" : "CDC14A",
+        "SUID" : 80,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -760.833575997995,
+        "y" : -173.97878585531322
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "RPS10",
+        "name" : "RPS10",
+        "SUID" : 79,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -504.5080144745575,
+        "y" : -151.43426513671875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "TCEA1",
+        "name" : "TCEA1",
+        "SUID" : 78,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -581.1552356993225,
+        "y" : -143.552490234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "PHB2",
+        "name" : "PHB2",
+        "SUID" : 77,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -898.4478149414062,
+        "y" : -75.92482396538388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "FHIT",
+        "name" : "FHIT",
+        "SUID" : 76,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -541.0091552734375,
+        "y" : -42.46163919989932
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "APC",
+        "name" : "APC",
+        "SUID" : 75,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -657.6062244688536,
+        "y" : -142.78502695908807
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "USP11",
+        "name" : "USP11",
+        "SUID" : 74,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -625.9625244140625,
+        "y" : -53.982066903756746
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "Everolimus",
+        "name" : "Everolimus",
+        "SUID" : 73,
+        "Drug_Target_s_" : "MTOR",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -1127.0619594160235,
+        "y" : -299.5732732772303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "Casein Kinase II Inhibitor III",
+        "name" : "CKII  Inhibitor III",
+        "SUID" : 72,
+        "Drug_Target_s_" : "CSNK2A1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -565.3407819436688,
+        "y" : -300.35194035274617
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "ATR",
+        "name" : "ATR",
+        "SUID" : 71,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -620.4075273103913,
+        "y" : -265.70100041802056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "shared_name" : "DAAM1",
+        "name" : "DAAM1",
+        "SUID" : 70,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -477.09639338080757,
+        "y" : -193.8315393584503
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "shared_name" : "MAP3K4",
+        "name" : "MAP3K4",
+        "SUID" : 69,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1199.0091171749518,
+        "y" : -69.27621906613058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "shared_name" : "RAD23B",
+        "name" : "RAD23B",
+        "SUID" : 68,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -751.2048528534638,
+        "y" : 86.07183837890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "shared_name" : "CDKN1B",
+        "name" : "CDKN1B",
+        "SUID" : 67,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -714.5971069335938,
+        "y" : -59.26198979790341
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "shared_name" : "RPS19",
+        "name" : "RPS19",
+        "SUID" : 66,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1141.1912841796875,
+        "y" : -232.26234075005186
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "shared_name" : "SH3GL1",
+        "name" : "SH3GL1",
+        "SUID" : 65,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -706.3385640182532,
+        "y" : -507.5044285930053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "shared_name" : "CHEK2",
+        "name" : "CHEK2",
+        "SUID" : 64,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1116.2042236328125,
+        "y" : 20.433784280465726
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "shared_name" : "STK11",
+        "name" : "STK11",
+        "SUID" : 63,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -672.1109386170838,
+        "y" : -346.5820617675781
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "shared_name" : "CDK12",
+        "name" : "CDK12",
+        "SUID" : 62,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1024.9864313262237,
+        "y" : 48.239234924316406
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "MMF",
+        "name" : "MMF",
+        "SUID" : 125,
+        "Drug_Target_s_" : "IMPDH1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -791.6173624504881,
+        "y" : -507.27147319076175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "shared_name" : "CHEK1",
+        "name" : "CHEK1",
+        "SUID" : 124,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -825.3959772246612,
+        "y" : -233.92562866210938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "AZD7762",
+        "name" : "AZD7762",
+        "SUID" : 123,
+        "Drug_Target_s_" : "CHEK1,CHEK2",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -555.41176684729,
+        "y" : -193.20104266828275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "WEE1",
+        "name" : "WEE1",
+        "SUID" : 122,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -731.07861328125,
+        "y" : -112.77339574272763
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "irinotecan",
+        "name" : "irinotecan",
+        "SUID" : 121,
+        "Drug_Target_s_" : "TOP1,TOP2A,TOP3A",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -1107.5415379941114,
+        "y" : -88.92028769392346
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "MK-1775",
+        "name" : "MK-1775",
+        "SUID" : 120,
+        "Drug_Target_s_" : "WEE1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -951.2000895410456,
+        "y" : 50.48901399075112
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "CDC6",
+        "name" : "CDC6",
+        "SUID" : 119,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -755.700275216745,
+        "y" : -338.11556564046947
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "CDC73",
+        "name" : "CDC73",
+        "SUID" : 118,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -858.6274602753388,
+        "y" : -178.95078597738353
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "fludarabine",
+        "name" : "fludarabine",
+        "SUID" : 117,
+        "Drug_Target_s_" : "ADA",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -845.4223392890999,
+        "y" : 70.26230090430181
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "vinorelbine",
+        "name" : "vinorelbine",
+        "SUID" : 116,
+        "Drug_Target_s_" : "TUBA1A",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -1042.6919759728771,
+        "y" : -3.0456211507116677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "TUSC3",
+        "name" : "TUSC3",
+        "SUID" : 115,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -991.6479869569275,
+        "y" : -264.04473876953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "shared_name" : "MK-8776",
+        "name" : "MK-8776",
+        "SUID" : 114,
+        "Drug_Target_s_" : "CHEK1",
+        "selected" : false,
+        "NodeType" : "drug"
+      },
+      "position" : {
+        "x" : -583.3032641323807,
+        "y" : -92.03500317013822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "BRCA2",
+        "name" : "BRCA2",
+        "SUID" : 113,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -1195.758228281673,
+        "y" : -105.2817731344112
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "WRN",
+        "name" : "WRN",
+        "SUID" : 112,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -995.3470081602599,
+        "y" : -182.66534423828125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "shared_name" : "BLM",
+        "name" : "BLM",
+        "SUID" : 111,
+        "Drug_Target_s_" : "n/a",
+        "selected" : false,
+        "NodeType" : "TSG"
+      },
+      "position" : {
+        "x" : -928.9729192597138,
+        "y" : -226.46184859945384
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "166",
+        "source" : "110",
+        "target" : "109",
+        "shared_name" : "PHA-767491 (pp) BRD4",
+        "shared_interaction" : "pp",
+        "name" : "PHA-767491 (pp) BRD4",
+        "interaction" : "pp",
+        "Column_3" : -7.0946075663466965,
+        "SUID" : 166,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "110",
+        "target" : "88",
+        "shared_name" : "PHA-767491 (pp) RPS11",
+        "shared_interaction" : "pp",
+        "name" : "PHA-767491 (pp) RPS11",
+        "interaction" : "pp",
+        "Column_3" : -3.9984754376058724,
+        "SUID" : 165,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "110",
+        "target" : "91",
+        "shared_name" : "PHA-767491 (pp) ING5",
+        "shared_interaction" : "pp",
+        "name" : "PHA-767491 (pp) ING5",
+        "interaction" : "pp",
+        "Column_3" : -3.027329192546584,
+        "SUID" : 164,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "107",
+        "target" : "106",
+        "shared_name" : "Disulfiram (pp) RPL11",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) RPL11",
+        "interaction" : "pp",
+        "Column_3" : -6.632954682233992,
+        "SUID" : 163,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "107",
+        "target" : "85",
+        "shared_name" : "Disulfiram (pp) ARID1A",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) ARID1A",
+        "interaction" : "pp",
+        "Column_3" : -4.42776089311507,
+        "SUID" : 162,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "107",
+        "target" : "89",
+        "shared_name" : "Disulfiram (pp) XRCC3",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) XRCC3",
+        "interaction" : "pp",
+        "Column_3" : -3.8809987361579195,
+        "SUID" : 161,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "107",
+        "target" : "108",
+        "shared_name" : "Disulfiram (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -3.7530798627828594,
+        "SUID" : 160,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "107",
+        "target" : "75",
+        "shared_name" : "Disulfiram (pp) APC",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) APC",
+        "interaction" : "pp",
+        "Column_3" : -3.53035778767453,
+        "SUID" : 159,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "107",
+        "target" : "77",
+        "shared_name" : "Disulfiram (pp) PHB2",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) PHB2",
+        "interaction" : "pp",
+        "Column_3" : -3.487191562349543,
+        "SUID" : 158,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "107",
+        "target" : "68",
+        "shared_name" : "Disulfiram (pp) RAD23B",
+        "shared_interaction" : "pp",
+        "name" : "Disulfiram (pp) RAD23B",
+        "interaction" : "pp",
+        "Column_3" : -3.321206969186327,
+        "SUID" : 157,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "103",
+        "target" : "102",
+        "shared_name" : "SCH772984 (pp) FH",
+        "shared_interaction" : "pp",
+        "name" : "SCH772984 (pp) FH",
+        "interaction" : "pp",
+        "Column_3" : -5.696760314407373,
+        "SUID" : 156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "103",
+        "target" : "97",
+        "shared_name" : "SCH772984 (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "SCH772984 (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -5.087012351718235,
+        "SUID" : 155,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "103",
+        "target" : "104",
+        "shared_name" : "SCH772984 (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "SCH772984 (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -4.637858961388373,
+        "SUID" : 154,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "103",
+        "target" : "88",
+        "shared_name" : "SCH772984 (pp) RPS11",
+        "shared_interaction" : "pp",
+        "name" : "SCH772984 (pp) RPS11",
+        "interaction" : "pp",
+        "Column_3" : -3.7155102449220103,
+        "SUID" : 153,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "98",
+        "target" : "115",
+        "shared_name" : "PD0325901 (pp) TUSC3",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) TUSC3",
+        "interaction" : "pp",
+        "Column_3" : -5.41861753840171,
+        "SUID" : 152,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "98",
+        "target" : "104",
+        "shared_name" : "PD0325901 (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -4.931304685980945,
+        "SUID" : 151,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "98",
+        "target" : "97",
+        "shared_name" : "PD0325901 (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -4.617868948084775,
+        "SUID" : 150,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "98",
+        "target" : "102",
+        "shared_name" : "PD0325901 (pp) FH",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) FH",
+        "interaction" : "pp",
+        "Column_3" : -4.3468695314019055,
+        "SUID" : 149,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "98",
+        "target" : "91",
+        "shared_name" : "PD0325901 (pp) ING5",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) ING5",
+        "interaction" : "pp",
+        "Column_3" : -3.480838032276881,
+        "SUID" : 148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "98",
+        "target" : "111",
+        "shared_name" : "PD0325901 (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "PD0325901 (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -3.213484347657009,
+        "SUID" : 147,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "96",
+        "target" : "101",
+        "shared_name" : "AUY922 (pp) LLGL1",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) LLGL1",
+        "interaction" : "pp",
+        "Column_3" : -5.348545396419437,
+        "SUID" : 146,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "96",
+        "target" : "94",
+        "shared_name" : "AUY922 (pp) RB1",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) RB1",
+        "interaction" : "pp",
+        "Column_3" : -4.982736572890026,
+        "SUID" : 145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "96",
+        "target" : "99",
+        "shared_name" : "AUY922 (pp) FZR1",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) FZR1",
+        "interaction" : "pp",
+        "Column_3" : -4.348332267689686,
+        "SUID" : 144,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "96",
+        "target" : "81",
+        "shared_name" : "AUY922 (pp) MCL1",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) MCL1",
+        "interaction" : "pp",
+        "Column_3" : -3.914029198635977,
+        "SUID" : 143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "96",
+        "target" : "67",
+        "shared_name" : "AUY922 (pp) CDKN1B",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) CDKN1B",
+        "interaction" : "pp",
+        "Column_3" : -3.289348891730606,
+        "SUID" : 142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "96",
+        "target" : "71",
+        "shared_name" : "AUY922 (pp) ATR",
+        "shared_interaction" : "pp",
+        "name" : "AUY922 (pp) ATR",
+        "interaction" : "pp",
+        "Column_3" : -2.997255967604433,
+        "SUID" : 141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "90",
+        "target" : "89",
+        "shared_name" : "tipifarnib (pp) XRCC3",
+        "shared_interaction" : "pp",
+        "name" : "tipifarnib (pp) XRCC3",
+        "interaction" : "pp",
+        "Column_3" : -4.738233901515152,
+        "SUID" : 140,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "90",
+        "target" : "108",
+        "shared_name" : "tipifarnib (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "tipifarnib (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -4.516169507575758,
+        "SUID" : 139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "90",
+        "target" : "111",
+        "shared_name" : "tipifarnib (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "tipifarnib (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -4.340743371212121,
+        "SUID" : 138,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "90",
+        "target" : "104",
+        "shared_name" : "tipifarnib (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "tipifarnib (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -3.397561553030302,
+        "SUID" : 137,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "90",
+        "target" : "66",
+        "shared_name" : "tipifarnib (pp) RPS19",
+        "shared_interaction" : "pp",
+        "name" : "tipifarnib (pp) RPS19",
+        "interaction" : "pp",
+        "Column_3" : -3.253148674242424,
+        "SUID" : 136,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "83",
+        "target" : "118",
+        "shared_name" : "methotrexate (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "methotrexate (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -4.392592916637502,
+        "SUID" : 135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "83",
+        "target" : "124",
+        "shared_name" : "methotrexate (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "methotrexate (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -3.597936935675789,
+        "SUID" : 134,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "83",
+        "target" : "122",
+        "shared_name" : "methotrexate (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "methotrexate (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -3.1563116819486243,
+        "SUID" : 133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "82",
+        "target" : "108",
+        "shared_name" : "PD98059 (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "PD98059 (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -4.100865952159055,
+        "SUID" : 132,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "82",
+        "target" : "63",
+        "shared_name" : "PD98059 (pp) STK11",
+        "shared_interaction" : "pp",
+        "name" : "PD98059 (pp) STK11",
+        "interaction" : "pp",
+        "Column_3" : -3.023590400745573,
+        "SUID" : 131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "73",
+        "target" : "124",
+        "shared_name" : "Everolimus (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "Everolimus (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -3.4645185323151444,
+        "SUID" : 130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "73",
+        "target" : "84",
+        "shared_name" : "Everolimus (pp) YWHAZ",
+        "shared_interaction" : "pp",
+        "name" : "Everolimus (pp) YWHAZ",
+        "interaction" : "pp",
+        "Column_3" : -3.162506984540884,
+        "SUID" : 129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "72",
+        "target" : "75",
+        "shared_name" : "Casein Kinase II Inhibitor III (pp) APC",
+        "shared_interaction" : "pp",
+        "name" : "Casein Kinase II Inhibitor III (pp) APC",
+        "interaction" : "pp",
+        "Column_3" : -3.4320475284243397,
+        "SUID" : 128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "72",
+        "target" : "108",
+        "shared_name" : "Casein Kinase II Inhibitor III (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "Casein Kinase II Inhibitor III (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -3.2208900600204946,
+        "SUID" : 127,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "72",
+        "target" : "63",
+        "shared_name" : "Casein Kinase II Inhibitor III (pp) STK11",
+        "shared_interaction" : "pp",
+        "name" : "Casein Kinase II Inhibitor III (pp) STK11",
+        "interaction" : "pp",
+        "Column_3" : -3.1464256087444498,
+        "SUID" : 126,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "125",
+        "target" : "124",
+        "shared_name" : "MMF (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "MMF (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -13.29196148796499,
+        "SUID" : 252,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "125",
+        "target" : "122",
+        "shared_name" : "MMF (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "MMF (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -9.467436323851203,
+        "SUID" : 251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "125",
+        "target" : "88",
+        "shared_name" : "MMF (pp) RPS11",
+        "shared_interaction" : "pp",
+        "name" : "MMF (pp) RPS11",
+        "interaction" : "pp",
+        "Column_3" : -4.584075273522975,
+        "SUID" : 250,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "125",
+        "target" : "118",
+        "shared_name" : "MMF (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "MMF (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -3.266210940919037,
+        "SUID" : 249,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "125",
+        "target" : "65",
+        "shared_name" : "MMF (pp) SH3GL1",
+        "shared_interaction" : "pp",
+        "name" : "MMF (pp) SH3GL1",
+        "interaction" : "pp",
+        "Column_3" : -3.2091606126914662,
+        "SUID" : 248,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "123",
+        "target" : "101",
+        "shared_name" : "AZD7762 (pp) LLGL1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) LLGL1",
+        "interaction" : "pp",
+        "Column_3" : -4.748111559139786,
+        "SUID" : 238,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "123",
+        "target" : "80",
+        "shared_name" : "AZD7762 (pp) CDC14A",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) CDC14A",
+        "interaction" : "pp",
+        "Column_3" : -3.9133669354838707,
+        "SUID" : 237,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "123",
+        "target" : "79",
+        "shared_name" : "AZD7762 (pp) RPS10",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) RPS10",
+        "interaction" : "pp",
+        "Column_3" : -3.83924059139785,
+        "SUID" : 236,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "123",
+        "target" : "112",
+        "shared_name" : "AZD7762 (pp) WRN",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) WRN",
+        "interaction" : "pp",
+        "Column_3" : -3.5171975806451616,
+        "SUID" : 235,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "123",
+        "target" : "71",
+        "shared_name" : "AZD7762 (pp) ATR",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) ATR",
+        "interaction" : "pp",
+        "Column_3" : -3.430638440860216,
+        "SUID" : 234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "123",
+        "target" : "70",
+        "shared_name" : "AZD7762 (pp) DAAM1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) DAAM1",
+        "interaction" : "pp",
+        "Column_3" : -3.416256720430108,
+        "SUID" : 233,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "123",
+        "target" : "97",
+        "shared_name" : "AZD7762 (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -3.410006720430108,
+        "SUID" : 232,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "source" : "123",
+        "target" : "109",
+        "shared_name" : "AZD7762 (pp) BRD4",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) BRD4",
+        "interaction" : "pp",
+        "Column_3" : -3.202547043010753,
+        "SUID" : 231,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "123",
+        "target" : "122",
+        "shared_name" : "AZD7762 (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -13.06679435483871,
+        "SUID" : 247,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "123",
+        "target" : "124",
+        "shared_name" : "AZD7762 (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -9.902614247311828,
+        "SUID" : 246,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "123",
+        "target" : "119",
+        "shared_name" : "AZD7762 (pp) CDC6",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) CDC6",
+        "interaction" : "pp",
+        "Column_3" : -9.32889112903226,
+        "SUID" : 245,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "123",
+        "target" : "118",
+        "shared_name" : "AZD7762 (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -9.043810483870969,
+        "SUID" : 244,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "123",
+        "target" : "111",
+        "shared_name" : "AZD7762 (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -7.4176680107526884,
+        "SUID" : 243,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "123",
+        "target" : "105",
+        "shared_name" : "AZD7762 (pp) RFC1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) RFC1",
+        "interaction" : "pp",
+        "Column_3" : -6.4382325268817215,
+        "SUID" : 242,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "123",
+        "target" : "100",
+        "shared_name" : "AZD7762 (pp) RAD17",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) RAD17",
+        "interaction" : "pp",
+        "Column_3" : -5.5259341397849475,
+        "SUID" : 241,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "123",
+        "target" : "99",
+        "shared_name" : "AZD7762 (pp) FZR1",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) FZR1",
+        "interaction" : "pp",
+        "Column_3" : -5.48184811827957,
+        "SUID" : 240,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "123",
+        "target" : "108",
+        "shared_name" : "AZD7762 (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "AZD7762 (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -4.960073924731184,
+        "SUID" : 239,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "121",
+        "target" : "124",
+        "shared_name" : "irinotecan (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -10.261022974478697,
+        "SUID" : 230,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "121",
+        "target" : "113",
+        "shared_name" : "irinotecan (pp) BRCA2",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) BRCA2",
+        "interaction" : "pp",
+        "Column_3" : -7.747148087228737,
+        "SUID" : 229,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "121",
+        "target" : "122",
+        "shared_name" : "irinotecan (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -7.474213402663555,
+        "SUID" : 228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "121",
+        "target" : "92",
+        "shared_name" : "irinotecan (pp) PALB2",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) PALB2",
+        "interaction" : "pp",
+        "Column_3" : -5.055844431474506,
+        "SUID" : 227,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "source" : "121",
+        "target" : "100",
+        "shared_name" : "irinotecan (pp) RAD17",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) RAD17",
+        "interaction" : "pp",
+        "Column_3" : -5.055393431315329,
+        "SUID" : 226,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "121",
+        "target" : "101",
+        "shared_name" : "irinotecan (pp) LLGL1",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) LLGL1",
+        "interaction" : "pp",
+        "Column_3" : -4.839788825807821,
+        "SUID" : 225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "121",
+        "target" : "87",
+        "shared_name" : "irinotecan (pp) MSH2",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) MSH2",
+        "interaction" : "pp",
+        "Column_3" : -4.454263277975275,
+        "SUID" : 224,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "121",
+        "target" : "86",
+        "shared_name" : "irinotecan (pp) NF1",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) NF1",
+        "interaction" : "pp",
+        "Column_3" : -4.446039157425586,
+        "SUID" : 223,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "121",
+        "target" : "88",
+        "shared_name" : "irinotecan (pp) RPS11",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) RPS11",
+        "interaction" : "pp",
+        "Column_3" : -4.360349127182046,
+        "SUID" : 222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "121",
+        "target" : "118",
+        "shared_name" : "irinotecan (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -4.190932243858439,
+        "SUID" : 221,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "121",
+        "target" : "119",
+        "shared_name" : "irinotecan (pp) CDC6",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) CDC6",
+        "interaction" : "pp",
+        "Column_3" : -3.605480978405052,
+        "SUID" : 220,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "source" : "121",
+        "target" : "69",
+        "shared_name" : "irinotecan (pp) MAP3K4",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) MAP3K4",
+        "interaction" : "pp",
+        "Column_3" : -3.3943067862259255,
+        "SUID" : 219,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "121",
+        "target" : "97",
+        "shared_name" : "irinotecan (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -3.2799119223218556,
+        "SUID" : 218,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "121",
+        "target" : "102",
+        "shared_name" : "irinotecan (pp) FH",
+        "shared_interaction" : "pp",
+        "name" : "irinotecan (pp) FH",
+        "interaction" : "pp",
+        "Column_3" : -3.067729612139864,
+        "SUID" : 217,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "120",
+        "target" : "124",
+        "shared_name" : "MK-1775 (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -9.89735516372796,
+        "SUID" : 216,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "120",
+        "target" : "118",
+        "shared_name" : "MK-1775 (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -6.603904282115869,
+        "SUID" : 215,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "source" : "120",
+        "target" : "97",
+        "shared_name" : "MK-1775 (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -5.350755667506297,
+        "SUID" : 214,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "120",
+        "target" : "94",
+        "shared_name" : "MK-1775 (pp) RB1",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) RB1",
+        "interaction" : "pp",
+        "Column_3" : -5.250000000000001,
+        "SUID" : 213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "120",
+        "target" : "93",
+        "shared_name" : "MK-1775 (pp) ING4",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) ING4",
+        "interaction" : "pp",
+        "Column_3" : -5.205919395465994,
+        "SUID" : 212,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "120",
+        "target" : "99",
+        "shared_name" : "MK-1775 (pp) FZR1",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) FZR1",
+        "interaction" : "pp",
+        "Column_3" : -5.168136020151134,
+        "SUID" : 211,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "120",
+        "target" : "112",
+        "shared_name" : "MK-1775 (pp) WRN",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) WRN",
+        "interaction" : "pp",
+        "Column_3" : -4.853274559193955,
+        "SUID" : 210,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "120",
+        "target" : "111",
+        "shared_name" : "MK-1775 (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -4.406171284634761,
+        "SUID" : 209,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "120",
+        "target" : "108",
+        "shared_name" : "MK-1775 (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -4.085012594458439,
+        "SUID" : 208,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "120",
+        "target" : "109",
+        "shared_name" : "MK-1775 (pp) BRD4",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) BRD4",
+        "interaction" : "pp",
+        "Column_3" : -3.612720403022671,
+        "SUID" : 207,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "120",
+        "target" : "102",
+        "shared_name" : "MK-1775 (pp) FH",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) FH",
+        "interaction" : "pp",
+        "Column_3" : -3.430100755667506,
+        "SUID" : 206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "120",
+        "target" : "122",
+        "shared_name" : "MK-1775 (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -3.430100755667506,
+        "SUID" : 205,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "120",
+        "target" : "67",
+        "shared_name" : "MK-1775 (pp) CDKN1B",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) CDKN1B",
+        "interaction" : "pp",
+        "Column_3" : -3.2663727959697737,
+        "SUID" : 204,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "120",
+        "target" : "89",
+        "shared_name" : "MK-1775 (pp) XRCC3",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) XRCC3",
+        "interaction" : "pp",
+        "Column_3" : -3.15302267002519,
+        "SUID" : 203,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "120",
+        "target" : "62",
+        "shared_name" : "MK-1775 (pp) CDK12",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) CDK12",
+        "interaction" : "pp",
+        "Column_3" : -3.1278337531486153,
+        "SUID" : 202,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "120",
+        "target" : "119",
+        "shared_name" : "MK-1775 (pp) CDC6",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) CDC6",
+        "interaction" : "pp",
+        "Column_3" : -3.058564231738035,
+        "SUID" : 201,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "120",
+        "target" : "104",
+        "shared_name" : "MK-1775 (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "MK-1775 (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -3.0522670025188914,
+        "SUID" : 200,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "117",
+        "target" : "122",
+        "shared_name" : "fludarabine (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "fludarabine (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -8.490499237078009,
+        "SUID" : 199,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "117",
+        "target" : "124",
+        "shared_name" : "fludarabine (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "fludarabine (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -8.269132653061225,
+        "SUID" : 198,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "117",
+        "target" : "111",
+        "shared_name" : "fludarabine (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "fludarabine (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -3.566791436200649,
+        "SUID" : 197,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "116",
+        "target" : "115",
+        "shared_name" : "vinorelbine (pp) TUSC3",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) TUSC3",
+        "interaction" : "pp",
+        "Column_3" : -8.369125290043067,
+        "SUID" : 196,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "116",
+        "target" : "118",
+        "shared_name" : "vinorelbine (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -7.556790646699716,
+        "SUID" : 195,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "116",
+        "target" : "108",
+        "shared_name" : "vinorelbine (pp) ATAD5",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) ATAD5",
+        "interaction" : "pp",
+        "Column_3" : -6.752418809346451,
+        "SUID" : 194,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "116",
+        "target" : "124",
+        "shared_name" : "vinorelbine (pp) CHEK1",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) CHEK1",
+        "interaction" : "pp",
+        "Column_3" : -6.6445998475936054,
+        "SUID" : 193,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "116",
+        "target" : "101",
+        "shared_name" : "vinorelbine (pp) LLGL1",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) LLGL1",
+        "interaction" : "pp",
+        "Column_3" : -5.624782735266668,
+        "SUID" : 192,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "116",
+        "target" : "93",
+        "shared_name" : "vinorelbine (pp) ING4",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) ING4",
+        "interaction" : "pp",
+        "Column_3" : -5.093672137884976,
+        "SUID" : 191,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "116",
+        "target" : "91",
+        "shared_name" : "vinorelbine (pp) ING5",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) ING5",
+        "interaction" : "pp",
+        "Column_3" : -4.872597244697884,
+        "SUID" : 190,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "116",
+        "target" : "112",
+        "shared_name" : "vinorelbine (pp) WRN",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) WRN",
+        "interaction" : "pp",
+        "Column_3" : -4.836614779995376,
+        "SUID" : 189,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "116",
+        "target" : "111",
+        "shared_name" : "vinorelbine (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -4.691529029993237,
+        "SUID" : 188,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "116",
+        "target" : "89",
+        "shared_name" : "vinorelbine (pp) XRCC3",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) XRCC3",
+        "interaction" : "pp",
+        "Column_3" : -4.617915885369841,
+        "SUID" : 187,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "116",
+        "target" : "94",
+        "shared_name" : "vinorelbine (pp) RB1",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) RB1",
+        "interaction" : "pp",
+        "Column_3" : -4.464096735249544,
+        "SUID" : 186,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "116",
+        "target" : "84",
+        "shared_name" : "vinorelbine (pp) YWHAZ",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) YWHAZ",
+        "interaction" : "pp",
+        "Column_3" : -4.405360338376444,
+        "SUID" : 185,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "116",
+        "target" : "122",
+        "shared_name" : "vinorelbine (pp) WEE1",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) WEE1",
+        "interaction" : "pp",
+        "Column_3" : -4.165106213557319,
+        "SUID" : 184,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "116",
+        "target" : "106",
+        "shared_name" : "vinorelbine (pp) RPL11",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) RPL11",
+        "interaction" : "pp",
+        "Column_3" : -4.002660690281095,
+        "SUID" : 183,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "116",
+        "target" : "97",
+        "shared_name" : "vinorelbine (pp) TTN",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) TTN",
+        "interaction" : "pp",
+        "Column_3" : -3.958758230373396,
+        "SUID" : 182,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "116",
+        "target" : "77",
+        "shared_name" : "vinorelbine (pp) PHB2",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) PHB2",
+        "interaction" : "pp",
+        "Column_3" : -3.674965537318162,
+        "SUID" : 181,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "116",
+        "target" : "80",
+        "shared_name" : "vinorelbine (pp) CDC14A",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) CDC14A",
+        "interaction" : "pp",
+        "Column_3" : -3.425678336886629,
+        "SUID" : 180,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "116",
+        "target" : "104",
+        "shared_name" : "vinorelbine (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -3.316296781485192,
+        "SUID" : 179,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "116",
+        "target" : "64",
+        "shared_name" : "vinorelbine (pp) CHEK2",
+        "shared_interaction" : "pp",
+        "name" : "vinorelbine (pp) CHEK2",
+        "interaction" : "pp",
+        "Column_3" : -3.148392883135119,
+        "SUID" : 178,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "114",
+        "target" : "118",
+        "shared_name" : "MK-8776 (pp) CDC73",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) CDC73",
+        "interaction" : "pp",
+        "Column_3" : -7.754416550441655,
+        "SUID" : 177,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "114",
+        "target" : "112",
+        "shared_name" : "MK-8776 (pp) WRN",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) WRN",
+        "interaction" : "pp",
+        "Column_3" : -7.702551139005113,
+        "SUID" : 176,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "114",
+        "target" : "104",
+        "shared_name" : "MK-8776 (pp) MTOR",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) MTOR",
+        "interaction" : "pp",
+        "Column_3" : -5.830921664342166,
+        "SUID" : 175,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "114",
+        "target" : "95",
+        "shared_name" : "MK-8776 (pp) SMARCC1",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) SMARCC1",
+        "interaction" : "pp",
+        "Column_3" : -5.284112040911204,
+        "SUID" : 174,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "114",
+        "target" : "109",
+        "shared_name" : "MK-8776 (pp) BRD4",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) BRD4",
+        "interaction" : "pp",
+        "Column_3" : -4.612854486285448,
+        "SUID" : 173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "114",
+        "target" : "115",
+        "shared_name" : "MK-8776 (pp) TUSC3",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) TUSC3",
+        "interaction" : "pp",
+        "Column_3" : -3.8491399349139934,
+        "SUID" : 172,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "114",
+        "target" : "78",
+        "shared_name" : "MK-8776 (pp) TCEA1",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) TCEA1",
+        "interaction" : "pp",
+        "Column_3" : -3.717137377963737,
+        "SUID" : 171,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "114",
+        "target" : "80",
+        "shared_name" : "MK-8776 (pp) CDC14A",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) CDC14A",
+        "interaction" : "pp",
+        "Column_3" : -3.6703858670385863,
+        "SUID" : 170,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "114",
+        "target" : "76",
+        "shared_name" : "MK-8776 (pp) FHIT",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) FHIT",
+        "interaction" : "pp",
+        "Column_3" : -3.5889702463970234,
+        "SUID" : 169,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "114",
+        "target" : "74",
+        "shared_name" : "MK-8776 (pp) USP11",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) USP11",
+        "interaction" : "pp",
+        "Column_3" : -3.491660855416085,
+        "SUID" : 168,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "114",
+        "target" : "111",
+        "shared_name" : "MK-8776 (pp) BLM",
+        "shared_interaction" : "pp",
+        "name" : "MK-8776 (pp) BLM",
+        "interaction" : "pp",
+        "Column_3" : -3.270862389586239,
+        "SUID" : 167,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

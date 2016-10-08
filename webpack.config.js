@@ -4,20 +4,12 @@ var webpack = require('webpack');
 module.exports = {
   cache: true,
   devtool: 'source-map',
-  entry: path.resolve(__dirname, "src/CyNetworkViewer.js"),
+  entry: path.resolve(__dirname, "src/CyNetworkViewer.jsx"),
   output: {
     path: path.resolve(__dirname, "build"),
     library: "CyNetworkViewer",
     libraryTarget: "umd",
-    filename: "CyNetworkViewer.js",
-  },
-  externals: {
-    "react":"React",
-    "react-dom":"ReactDOM",
-    'react-addons-transition-group': 'var React.addons.TransitionGroup',
-    'react-addons-pure-render-mixin': 'var React.addons.PureRenderMixin',
-    'react-addons-create-fragment': 'var React.addons.createFragment',
-    'react-addons-update': 'var React.addons.update'
+    filename: "CyNetworkViewer.js"
   },
   resolve: {
     root: __dirname,
@@ -41,11 +33,11 @@ module.exports = {
       }
     ]
   },
-  plugins: [
-    new webpack.optimize.UglifyJsPlugin({
-      compress: {
-        warnings: false
-      }
-    })
-  ]
+  // plugins: [
+  //   new webpack.optimize.UglifyJsPlugin({
+  //     compress: {
+  //       warnings: false
+  //     }
+  //   })
+  // ]
 }
