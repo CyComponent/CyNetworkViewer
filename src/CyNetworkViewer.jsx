@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component, PropTypes} from 'react'
 import CytoscapeJsRenderer from './CytoscapeJsRenderer'
 
 
@@ -29,9 +29,9 @@ class CyNetworkViewer extends Component {
 }
 
 CyNetworkViewer.propTypes = {
-  id: React.PropTypes.string,
-  network: React.PropTypes.object,
-  renderer: React.PropTypes.string
+  id: PropTypes.string,
+  network: PropTypes.object,
+  renderer: PropTypes.string
 };
 
 
