@@ -14,7 +14,7 @@ const CY_EVENTS = {
 }
 
 const BASE_STYLE = {
-  height: '100%',
+  height: '40%',
   width: '100%',
   position: 'relative',
   left: '0',

@@ -133,19 +133,35 @@ class CytoscapeJsRenderer extends Component {
   }
 
 
+  /**
+   * Translate Cytoscape.js events into action calls
+   * @param cy
+   */
   setEventListener(cy) {
     cy.on(config.SUPPORTED_EVENTS, event => {
 
       const eventType = event.originalEvent.type
+      const target = event.cyTarget;
 
-      switch (event.originalEvent.type) {
+      if(target === undefined) {
+        return
+      }
+
+      switch (eventType) {
         case config.CY_EVENTS.select:
-          let selected = event.cyTarget;
-          this.props.eventActions.selected(selected.data())
+          if(target.isNode()) {
+            this.props.eventHandlers.selectNodes(this.props.networkId, [target.data().id])
+          } else {
+            this.props.eventHandlers.selectEdges(this.props.networkId, [target.data().id])
+          }
+
           break
         case config.CY_EVENTS.unselect:
-          let unselected = event.cyTarget;
-          this.props.eventActions.unselected(unselected.data())
+          if(target.isNode()) {
+            this.props.eventHandlers.deselectNodes(this.props.networkId, [target.data().id])
+          } else {
+            this.props.eventHandlers.deselectEdges(this.props.networkId, [target.data().id])
+          }
           break
         default:
           break

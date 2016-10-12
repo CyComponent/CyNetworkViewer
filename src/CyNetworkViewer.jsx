@@ -17,21 +17,18 @@ class CyNetworkViewer extends Component {
       )
     } else {
       return (
-        <div>
-          <h1>Null renderer</h1>
-          <p>
-            {props.id}
-          </p>
-        </div>
+        <h1>Renderer not available</h1>
       )
     }
   }
 }
 
+
 CyNetworkViewer.propTypes = {
   id: PropTypes.string,
+  networkId: PropTypes.string,
   network: PropTypes.object,
-  renderer: PropTypes.string
+  renderer: PropTypes.string,
 };
 
 
