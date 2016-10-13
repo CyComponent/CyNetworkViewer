@@ -14,7 +14,6 @@ const network = {
 }
 
 
-
 ReactDOM.render(
   <CyNetworkViewer
     id='Rend1'

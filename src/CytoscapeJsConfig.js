@@ -14,13 +14,8 @@ const CY_EVENTS = {
 }
 
 const BASE_STYLE = {
-  height: '40%',
-  width: '100%',
-  position: 'relative',
-  left: '0',
-  top: '0',
-  zIndex: '1',
-  backgroundColor: '#C9D3DF'
+  height: '100%',
+  width: '100%'
 }
 
 // Events handled by this renderer

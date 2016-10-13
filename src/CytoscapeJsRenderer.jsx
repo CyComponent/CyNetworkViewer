@@ -41,9 +41,9 @@ class CytoscapeJsRenderer extends Component {
     const cy = this.state.cyjs
     cy.add(network.elements.nodes)
     cy.add(network.elements.edges)
-    if(layoutFlag) {
-      cy.layout({ name: LAYOUT })
-    }
+    // if(layoutFlag) {
+    //   cy.layout({ name: LAYOUT })
+    // }
     cy.fit()
   }
 
