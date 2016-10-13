@@ -20,10 +20,11 @@ class CytoscapeJsRenderer extends Component {
       return;
     }
 
-    console.log("*** Redering start")
+    console.log("* Cytoscape.js redering start")
 
     this.state.rendered = true
     let network = networkData
+    console.log(network)
 
     // Case 1: network has Style section
     let visualStyle = network.style
