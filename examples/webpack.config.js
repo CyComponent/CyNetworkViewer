@@ -26,6 +26,10 @@ module.exports = {
         test: /\.(png|jpg|jpeg|svg)$/,
         exclude: /node_modules/,
         loaders: ["url"]
+      },
+      {
+        test: /\.json$/,
+        loader: 'json'
       }
 
     ]
