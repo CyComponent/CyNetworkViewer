@@ -2,6 +2,7 @@ import React, {Component, PropTypes} from 'react'
 import {bindActionCreators} from 'redux'
 import {connect} from 'react-redux'
 
+
 // React component
 import CyNetworkViewerComponent from 'cy-network-viewer-component'
 
@@ -14,18 +15,25 @@ import {networksActions, reducers} from 'cy-network-store'
  */
 class CyNetworkViewer extends Component {
 
+  constructor(props) {
+    super(props);
+  }
+
+
   render() {
-    console.log('========== Viewer called')
+    console.log('========== Viewer called2')
     console.log(this.props)
 
     const id = this.props.networkId.get('networkId')
-    const net = this.props.networks.get(id)
+
+    // CX is an array.
+    const networkObj = this.props.networks.get(id)
 
     return (
       <CyNetworkViewerComponent
         {...this.props}
         networkId={id}
-        network={{net}}
+        network={networkObj}
       />
     )
   }
